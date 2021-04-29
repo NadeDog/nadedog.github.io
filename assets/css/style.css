@@ -1,7 +1,7 @@
 /* -- Variables -- */
 :root {
-  --primary-color: #fff;
-  --secondary-color: #000;
+  --primary-color: #d1ffe8;
+  --secondary-color:  	#56c1a4;
   --gradient-top-color: rgba(209, 60, 60, 1);
   --gradient-bottom-color: rgba(253, 144, 45, 1);
   --font: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
@@ -49,7 +49,7 @@ ul {
 body,
 a,
 a:hover {
-  color: #000000;
+  color: #d1ffe8;
 }
 
 a,
@@ -113,6 +113,7 @@ body.page-template-page-fullsingle-me {
 body.page-template-page-fullsingle-me h1 {
   font-weight: 600;
   font-size: 3rem;
+  color:  	#73f2ad;
 }
 
 .fs-me {
